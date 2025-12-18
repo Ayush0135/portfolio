@@ -1,0 +1,299 @@
+{
+  "hero": {
+    "name": "Ayush kashyap",
+    "role": "AI Engineer & Innovator",
+    "description": "Specializing in Machine Learning, Natural Language Processing, and Intelligent Systems. I build scalable AI solutions that transform data into actionable insights and drive innovation."
+  },
+  "about": {
+    "bio": "I'm a B.Tech student in Artificial Intelligence & Data Science at Vivekananda Global University (2023–2027), driven by a passion for creating intelligent systems that solve real-world problems. My journey in AI has led me through diverse projects ranging from multi-layer research agents to stock market analysis systems."
+  },
+  "experiences": [
+    {
+      "role": "AI Innovator Intern",
+      "company": "Tensax Technologies",
+      "period": "Oct 2024 - Dec 2024",
+      "location": "Remote, India",
+      "duration": "3 months",
+      "achievements": [
+        "Developed innovative AI solutions for real-world business problems, improving operational efficiency by 25%",
+        "Implemented multi-agent AI systems for automated research and content generation",
+        "Collaborated with cross-functional teams to integrate AI capabilities into existing products",
+        "Conducted research on latest LLM architectures and fine-tuning techniques"
+      ],
+      "skills": [
+        "Python",
+        "LangChain",
+        "AI Agents",
+        "GPT APIs",
+        "Research"
+      ]
+    },
+    {
+      "role": "Data Scientist Intern",
+      "company": "Code Veda",
+      "period": "Dec 2024 - Jan 2025",
+      "location": "Jaipur, India",
+      "duration": "2 months",
+      "achievements": [
+        "Designed and deployed ML models improving classification accuracy by approximately 15%",
+        "Automated data preprocessing pipelines, reducing processing time by 30%",
+        "Implemented feature engineering techniques to enhance model performance",
+        "Collaborated with senior data scientists on production-grade ML solutions"
+      ],
+      "skills": [
+        "Python",
+        "Scikit-learn",
+        "SQL",
+        "Pandas",
+        "Data Visualization"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Stock Market Analysis System",
+      "description": "Comprehensive stock market analysis platform with real-time data visualization, AI-powered predictions, and portfolio management.",
+      "tags": [
+        "Python",
+        "Flask",
+        "ML",
+        "Chart.js",
+        "Alpaca API",
+        "yFinance",
+        "Sentiment Analysis"
+      ],
+      "github": "https://github.com/Ayush0135/Stock-market-analysis",
+      "live": null
+    },
+    {
+      "title": "Multi-Layer Research Agent",
+      "description": "Advanced AI research agent system using multiple LLM layers for comprehensive topic analysis. Implements hierarchical agent architecture.",
+      "tags": [
+        "LangChain",
+        "AI Agents",
+        "Python",
+        "Gemini API",
+        "Groq",
+        "RAG",
+        "Research Automation"
+      ],
+      "github": "https://github.com/Ayush0135/Multi-layer-research-agent",
+      "live": null
+    },
+    {
+      "title": "Rainfall Prediction System",
+      "description": "Machine learning model for accurate rainfall forecasting using ensemble methods like Random Forest and XGBoost.",
+      "tags": [
+        "Python",
+        "XGBoost",
+        "Random Forest",
+        "Scikit-learn",
+        "Data Analysis",
+        "Feature Engineering"
+      ],
+      "github": "https://github.com/Ayush0135/rainfall-prediction",
+      "live": null
+    },
+    {
+      "title": "Advanced NLP Text Summarizer",
+      "description": "Intelligent text summarization system using transformer models and spaCy. Supports both extractive and abstractive summarization.",
+      "tags": [
+        "NLP",
+        "Transformers",
+        "spaCy",
+        "BERT",
+        "Python",
+        "HuggingFace"
+      ],
+      "github": "https://github.com/Ayush0135/text-summariser",
+      "live": null
+    },
+    {
+      "title": "OmniChat - Gemini AI Playground",
+      "description": "Multimodal AI interface powered by Google Gemini API. Supports text, image, and voice interactions.",
+      "tags": [
+        "Generative AI",
+        "Gemini API",
+        "Gradio",
+        "Python",
+        "Multimodal AI",
+        "LLM"
+      ],
+      "github": "https://github.com/Ayush0135/omnichat-gemini",
+      "live": null
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI & Machine Learning",
+      "skills": [
+        {
+          "name": "TensorFlow",
+          "level": 85
+        },
+        {
+          "name": "PyTorch",
+          "level": 80
+        },
+        {
+          "name": "Scikit-learn",
+          "level": 90
+        },
+        {
+          "name": "XGBoost",
+          "level": 85
+        },
+        {
+          "name": "LangChain",
+          "level": 75
+        }
+      ]
+    },
+    {
+      "category": "Programming & Frameworks",
+      "skills": [
+        {
+          "name": "Python",
+          "level": 95
+        },
+        {
+          "name": "JavaScript",
+          "level": 75
+        },
+        {
+          "name": "Flask",
+          "level": 85
+        },
+        {
+          "name": "FastAPI",
+          "level": 80
+        },
+        {
+          "name": "React",
+          "level": 70
+        }
+      ]
+    }
+  ],
+  "visitors": [
+    {
+      "timestamp": "2025-12-17T22:08:18.814Z",
+      "ip": "::ffff:10.133.126.140",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://10.133.126.140:3001/"
+    },
+    {
+      "timestamp": "2025-12-17T22:08:22.802Z",
+      "ip": "::ffff:10.133.126.140",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://10.133.126.140:3001/"
+    },
+    {
+      "timestamp": "2025-12-17T22:08:44.386Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://localhost:3000/"
+    },
+    {
+      "timestamp": "2025-12-17T22:09:49.325Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://localhost:3000/"
+    },
+    {
+      "timestamp": "2025-12-17T22:10:15.222Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/admin",
+      "referrer": "http://localhost:3000/admin"
+    },
+    {
+      "timestamp": "2025-12-17T22:10:38.075Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://localhost:3000/admin"
+    },
+    {
+      "timestamp": "2025-12-17T22:10:55.343Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://localhost:3000/admin"
+    },
+    {
+      "timestamp": "2025-12-17T22:11:15.215Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://localhost:3000/admin"
+    },
+    {
+      "timestamp": "2025-12-17T22:16:33.537Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/admin",
+      "referrer": "http://localhost:3000/admin"
+    },
+    {
+      "timestamp": "2025-12-17T22:17:48.511Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://localhost:3000/"
+    },
+    {
+      "timestamp": "2025-12-17T22:18:14.596Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://localhost:3000/"
+    },
+    {
+      "timestamp": "2025-12-17T22:18:17.616Z",
+      "ip": "::ffff:10.133.126.140",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://10.133.126.140:3001/"
+    },
+    {
+      "timestamp": "2025-12-17T22:18:44.545Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": "http://localhost:3000/"
+    },
+    {
+      "timestamp": "2025-12-17T22:19:10.383Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/admin",
+      "referrer": "http://localhost:3000/admin"
+    },
+    {
+      "timestamp": "2025-12-18T08:15:24.254Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": ""
+    },
+    {
+      "timestamp": "2025-12-18T08:16:43.488Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/admin",
+      "referrer": ""
+    },
+    {
+      "timestamp": "2025-12-18T19:54:15.513Z",
+      "ip": "::1",
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15",
+      "page": "/",
+      "referrer": ""
+    }
+  ]
+}
